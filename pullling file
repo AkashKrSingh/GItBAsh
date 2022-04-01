@@ -1,0 +1,4 @@
+class pull(){
+public void pulling() {
+		System.out.println("using fo-r pulling");
+	}}
